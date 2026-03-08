@@ -66,24 +66,24 @@ ever-hooks/
 
 - 유틸리티
   - useToggle – 토글 값 관리
-  - ~~usePrevious – 이전 값 추적~~
-  - ~~useDebounce – 디바운스 이벤트 처리~~
-  - ~~useThrottle – 쓰로틀 이벤트 처리~~
+  - usePrevious – 이전 값 추적
+  - useDebounce – 디바운스 이벤트 처리
+  - useThrottle – 쓰로틀 이벤트 처리
 - UI/상호작용
-  - ~~useFocusOut – 외부 클릭 감지~~
-  - ~~useHover – 호버 상태 감지~~
-  - ~~useBreakpoint – 화면 크기별 상태 반환~~
-  - ~~useMediaQuery – 미디어쿼리 매칭~~
-  - ~~useInterval – 인터벌 관리~~
+  - useFocusOut – 외부 클릭 감지
+  - useHover – 호버 상태 감지
+  - useBreakpoint – 화면 크기별 상태 반환
+  - useMediaQuery – 미디어쿼리 매칭
+  - useInterval – 인터벌 관리
 - 데이터/네트워크
-  - ~~useFetch – API 요청 관리~~
-  - ~~useIndexedDB – IndexedDB 데이터 관리~~
-  - ~~useWebSocket – WebSocket 연결/메시지 관리~~
-  - ~~useInfiniteScroll – 무한 스크롤 이벤트~~
+  - useFetch – API 요청 관리
+  - useIndexedDB – IndexedDB 데이터 관리
+  - useWebSocket – WebSocket 연결/메시지 관리
+  - useInfiniteScroll – 무한 스크롤 이벤트
 - 특수
-  - ~~useBeforeunload – 페이지 이탈 감지~~
-  - ~~useTraceLog – 디버깅/트레이스 로깅~~
-  - ~~useQuantumShare – 다수 컴포넌트 간 상태 공유~~
+  - useBeforeunload – 페이지 이탈 감지
+  - useTraceLog – 디버깅/트레이스 로깅
+  - useQuantumShare – 다수 컴포넌트 간 상태 공유
 
 ## 📖 사용 예시 (Demo)
 
